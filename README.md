@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png](https://github.com/MohammedRoshanT/L3MON/blob/master/server/assets/webpublic/logo.png)" height="60"><br>
+<img src="https://github.com/MohammedRoshanT/L3MON/blob/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
@@ -30,7 +30,9 @@ A cloud based remote android managment suite, powered by NodeJS
 ## Installation 
 1. Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that dont use this will be closed WITHOUT a response)
     - Debian, Ubuntu, Etc
-        - `sudo apt-get install openjdk-8-jre`
+        - `sudo apt-get install openjdk-8-jre` <br>
+          Trouble installing? <br>
+          -`https://drive.google.com/file/d/1rO_p8x3wpUiQSKNCA4MK1V-jXCMc_H43/view`
     - Fedora, Oracle, Red Hat, etc
         -  `su -c "yum install java-1.8.0-openjdk"`
     - Windows 
